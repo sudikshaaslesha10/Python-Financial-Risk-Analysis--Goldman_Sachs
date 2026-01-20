@@ -21,3 +21,21 @@ Identifying dormant accounts and financial risk indicators
 Detecting anomalies and balance volatility using statistical methods
 
 This project demonstrates how data-driven financial analytics can support effective risk management in banking institutions.
+
+## 💡 Recommendations
+
+Focus on retaining high net-inflow customers through premium offerings
+
+Re-engage dormant customers using targeted campaigns
+
+Monitor high-frequency, low-balance users for tailored financial products
+
+Track balance volatility and overdraft signals proactively
+
+Enhance customer valuation models by combining balance stability with transaction behavior
+
+Automate anomaly detection using statistical thresholds
+
+✅ Conclusion
+
+This project demonstrates how Python-based financial analytics can convert raw transaction data into meaningful business and risk insights. By combining data cleaning, exploratory analysis, customer profiling, and risk assessment, the analysis highlights financial stability patterns and potential risk areas, reinforcing the importance of holistic financial behavior analysis in banking environments.
