@@ -6,7 +6,7 @@ This project performs an end-to-end financial transaction and risk analysis usin
 
 ## Dataset & Project Files
 
-Raw Dataset Used: goldman_sachs.csv
+Raw Dataset Used: [goldman_sachs.csv](https://github.com/sudikshaaslesha10/Python-Financial-Risk-Analysis--Goldman_Sachs/blob/d1d2699fa74d5690928831f27c48e707d0302edb/goldman_sachs.csv)
 
 ## Key objectives include:
 
